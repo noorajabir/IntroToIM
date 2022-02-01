@@ -1,2 +1,2 @@
 
-![portrait.png](Self-Portrait)
+![](portrait.png)
