@@ -1,4 +1,4 @@
-Here's my artwork: 
+Here are some screenshots of my artwork: 
 
 ![stem1](stem1.png) ![stem2](stem2.png)
 
