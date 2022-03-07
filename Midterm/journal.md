@@ -7,3 +7,4 @@ The game will have the following parts:
 - choose temperature
 - end screen
 
+I think the most difficult part would be getting ground coffee of a particular grind size fall out of the grinder depending on the size chosen by the player. I decided to code that part first.
