@@ -9,6 +9,8 @@ The game has the following parts:
 
 ![screenshot of the game](game_screenshot.png)
 
+[Click here](https://editor.p5js.org/noorajabir/sketches/7erJ7QDXq) to play the game.
+
 Making the game came with a lot of challenges, many which are documented in more detail in my [project journal](https://github.com/noorajabir/IntroToIM/blob/main/Midterm/journal.md). Some broader observations to incorporate in future projects are as follows:
 
 1. Knowing when to use arrays, functions and classes- a lot of times, I did simple things in a convoluted manner, before realizing that effectively using arrays or functions could've saved me time and effort.
