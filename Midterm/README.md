@@ -17,8 +17,8 @@ Making the game came with a lot of challenges, many which are documented in more
 2. Using built in functions and variables- I did this to a small extent in this project, but I wish I used it more- it would've made resizing and debugging much easier
 3. Build mechanics first and then work on design- frames where I focused on making everything 'look right' took much more time than those I initially focused on 'working right', which I think is something to keep in mind moving forward.
 
-User testing:
-I asked some of my friends to play the game and give feedback. Some of the points that came up wer as follows:
+*User testing:*
+I asked some of my friends to play the game and give feedback. Some of the points that came up were as follows:
 
 1. Having instructions come up as the game proceeds, instead of all at once in the beginning
 2. Have the three elements-grindsize, temperature and amount-recorded somewhere so they can look at what they chose the last time and try different variables every time
