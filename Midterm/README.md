@@ -18,6 +18,7 @@ Making the game came with a lot of challenges, many which are documented in more
 3. Build mechanics first and then work on design- frames where I focused on making everything 'look right' took much more time than those I initially focused on 'working right', which I think is something to keep in mind moving forward.
 
 *User testing:*
+
 I asked some of my friends to play the game and give feedback. Some of the points that came up were as follows:
 
 1. Having instructions come up as the game proceeds, instead of all at once in the beginning
