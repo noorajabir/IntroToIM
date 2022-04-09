@@ -1,0 +1,3 @@
+Last week, we learnt about PWM and how we humans perceive lights as being brighter or dimmer when they really aren't- this made me reflect on perception and how we often see things differently from what they actually are. Another example is a point 'moving' when really it's just being redrawn a pixel away from its previous position. For this assignment, I wanted to try to play around with perception using the color of the LEDs, and I did this by attempting to make a still image 'move' as different colored LEDs are lit.
+
+A few weeks ago, I came across the artist (Carnovsky)[https://www.carnovsky.com/RGB.htm]
