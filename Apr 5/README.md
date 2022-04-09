@@ -12,3 +12,7 @@ When one color is switched on, the parts of the image in that specific color are
 
 There are two modes to the display: the first rapidly switches between the three colored LEDs, the delay being controlled by the potentiometer. The second mode allows you to change the colors yourself using a switch.
 
+![](IMG_9813.jpeg) ![](IMG_9814.jpeg)
+![](IMG_9815.jpeg) ![](IMG_9816.jpeg)
+
+
