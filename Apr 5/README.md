@@ -14,5 +14,8 @@ There are two modes to the display: the first rapidly switches between the three
 
 ![](photo.jpg) 
 
+There were some difficulties that came along as I worked on the assignment. I could not figure out how to use the switch to change modes, but I came across the built in example on Arduino called StateChangeDetection, which I tailored to suit my needs. Some difficulties arose as I tried to record the project- first, the lights were bright and as a result the photo was not clearly visible- a black mask came in handy, which helped the camera focus on the image. Secondly, the blue lights specifically were extremely bright- it made the whole image look like a blue blob. I was able to fix this by using AnalogWrite instead of DigitalWrite and increasing the PWM.
+
+![](display.png) 
 
 
