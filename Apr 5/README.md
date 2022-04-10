@@ -18,4 +18,6 @@ There were some difficulties that came along as I worked on the assignment. I co
 
 ![](display.png) 
 
+https://user-images.githubusercontent.com/98478196/162598287-3a887586-d421-407c-b077-18d54547fa33.MOV
+
 
