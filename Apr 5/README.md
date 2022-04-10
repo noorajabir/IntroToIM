@@ -20,7 +20,7 @@ There were some difficulties that came along as I worked on the assignment. I co
 
 https://user-images.githubusercontent.com/98478196/162598287-3a887586-d421-407c-b077-18d54547fa33.MOV
 
-![IMG_9825](https://user-images.githubusercontent.com/98478196/162609046-3ae0dbdc-1c63-43ba-a6c5-abf3cb7d9637.jpg)
+![](IMG_9825.jpg)
 
 
 
