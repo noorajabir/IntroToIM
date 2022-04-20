@@ -1,3 +1,4 @@
+
 let serial; // variable to hold an instance of the serialport library
 let portName = "/dev/tty.usbmodem14201"; // fill in your serial port name here
 let xPos=0;
@@ -98,5 +99,8 @@ void loop() {
     Serial.println();
   }
 }
+
+//REFERENCES:
+//serialCommunication by aaronsherwood, https://editor.p5js.org/aaronsherwood/sketches/v8OM9VbGe
 
 */
