@@ -1,3 +1,3 @@
-H2. Final Project
+## Final Project
 
-H4. Description
+### Description
