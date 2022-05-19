@@ -55,9 +55,9 @@ I then worked on creating the enclosure and made sure that all that components w
 
 The hardest part to put together was the LCD display-the 12 pins were really close to each other and the wires kept touching, and since the LCD was set up vertically it was hard to keep it all in place. I was also unsure of how to place the ipad inside-I ended up changing my plan to have the shoebox vertical and made it horizontal instead to fit it all in.
 
-![IMG_0669](https://user-images.githubusercontent.com/98478196/169409415-dee9f85d-1d0a-45a6-9b48-4aba0714202c.JPG)
-![IMG_0659](https://user-images.githubusercontent.com/98478196/169409424-2ae73787-4826-4733-8503-31953431c153.JPG)
-![IMG_0657](https://user-images.githubusercontent.com/98478196/169409430-d1122528-e763-44a8-892c-e6a5082fde2d.JPG)
 ![C86C88EE-F5AE-44E0-B2FC-4FD8FD3ED377](https://user-images.githubusercontent.com/98478196/169409432-5fe38ec2-610a-4bcf-8321-a3675c9bccdb.JPG)
+![IMG_0657](https://user-images.githubusercontent.com/98478196/169409430-d1122528-e763-44a8-892c-e6a5082fde2d.JPG)
+![IMG_0659](https://user-images.githubusercontent.com/98478196/169409424-2ae73787-4826-4733-8503-31953431c153.JPG)
+![IMG_0669](https://user-images.githubusercontent.com/98478196/169409415-dee9f85d-1d0a-45a6-9b48-4aba0714202c.JPG)
 
 
