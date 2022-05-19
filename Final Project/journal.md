@@ -1,6 +1,8 @@
-Initial ideas:
+### Initial ideas:
 
 I really enjoyed creating my [midterm game](https://editor.p5js.org/noorajabir/sketches/7erJ7QDXq) modelled on a coffee machine, and I decided to build a physical version of the game for my final project. The idea was to create a coffee machine that would allow the player to physically select the grind size, amount of coffee and set the temperature, which would have coffee pour into a virtual cup that would be scored on the basis of the decisions the player made. 
+
+### Planning and Initial Tests
 
 ![IMG_0240](https://user-images.githubusercontent.com/98478196/169378212-d145ecc9-0cdd-4aae-a3c1-f1e393fefa14.jpg)
 
@@ -32,6 +34,8 @@ I then worked on creating the circuit on a solderless breadboard and ran a test 
 
 ![IMG_0409](https://user-images.githubusercontent.com/98478196/169388749-9b6fc602-6a0b-48f6-82dd-3aa4577ecf59.JPG)
 
+### Working on the code
+
 I proceeded to then edit my midterm code so that the game's software corresponds to the hardware. I edited the first part so the following happens:
 
 2. When the potentiometer is turned, the slider would slide across the array of coffee amount values. 
@@ -43,5 +47,7 @@ I proceeded to then edit my midterm code so that the game's software corresponds
 
 One difficulty I had at this stage was that although the ground beans didnt appear on my laptop screen when the radius was set as zero, they still appeared as small spots on another laptop I had borrowed for the project. I fixed this by creating a background that appears over the ground beans only if the grind size is zero. 
 
-I then worked on creating the enclosure and 
+### Creating the enclosure
+
+I then worked on creating the enclosure and made sure 
 
