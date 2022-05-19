@@ -47,7 +47,13 @@ I proceeded to then edit my midterm code so that the game's software corresponds
 
 One difficulty I had at this stage was that although the ground beans didnt appear on my laptop screen when the radius was set as zero, they still appeared as small spots on another laptop I had borrowed for the project. I fixed this by creating a background that appears over the ground beans only if the grind size is zero. 
 
-### Creating the enclosure
 
-I then worked on creating the enclosure and made sure 
+
+### Creating the enclosure and circuitry
+
+I then worked on creating the enclosure and made sure that all that components would fit. I found an old shoebox that I used, and cut out a part for the ipad screen display. I borrowed a laptop and ipad from the library so I could connect the arduino to my laptop and share the screen to the ipad. This made both the display and controls fit onto the box, which I liked.
+
+The hardest part to put together was the LCD display-the 12 pins were really close to each other and the wires kept touching, and since the LCD was set up vertically it was hard to keep it all in place. I was also unsure of how to place the ipad inside-I ended up changing my plan to have the shoebox vertical and made it horizontal instead to fit it all in.
+
+
 
