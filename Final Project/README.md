@@ -31,5 +31,6 @@ I faced some difficulties while working on the code for the game as well, a sign
 
 ## Schematic
 
+![IMG_0740](https://user-images.githubusercontent.com/98478196/169965868-5f208875-5c5d-456b-a1bd-fa25ef6c72bf.jpg)
 
 [LINK TO P5 SKETCH](https://editor.p5js.org/noorajabir/sketches/mv0XpdIBU)
